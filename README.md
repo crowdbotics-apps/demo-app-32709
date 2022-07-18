@@ -57,6 +57,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-privacy-policy](screens/privacy-policy)
 - [privacy-policy]()
+- [screen-terms-and-conditions](screens/terms-and-conditions)
 
 # Getting started: Frontend
 
